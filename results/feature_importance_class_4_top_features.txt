@@ -1,0 +1,13 @@
+Топ-5 спектральных признаков:
+T4_beta_low: 1.299
+C4_beta_high: 1.231
+Fz_theta: 1.218
+Cz_beta_high: 1.212
+C3_gamma_low: 1.194
+
+Топ-5 признаков Line Length:
+P4_LL: 1.408
+C4_LL: 1.354
+Fz_LL: 1.347
+T3_LL: 1.285
+O2_LL: 1.124

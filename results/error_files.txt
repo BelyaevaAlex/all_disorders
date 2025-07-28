@@ -1,0 +1,2 @@
+Файлы с ошибками при обработке:
+/home/belyaeva.a/пациенты и контроль/open_eyes/control/Skopincev_20_EO_free.edf: could not convert string to float: '        '

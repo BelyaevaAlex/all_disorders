@@ -1,0 +1,13 @@
+Топ-5 спектральных признаков:
+O2_gamma_low: 1.398
+Cz_alpha: 1.169
+Cz_theta: 1.167
+P4_beta_high: 1.121
+Fp2_gamma_low: 1.120
+
+Топ-5 признаков Line Length:
+C4_LL: 1.265
+Fp1_LL: 1.218
+T6_LL: 1.092
+P4_LL: 1.048
+F8_LL: 1.026

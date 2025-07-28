@@ -1,0 +1,13 @@
+Топ-5 спектральных признаков:
+Fz_beta_high: 1.317
+F3_alpha: 1.166
+P4_delta: 1.087
+C3_beta_high: 1.080
+F8_beta_high: 1.057
+
+Топ-5 признаков Line Length:
+Fp1_LL: 1.251
+O1_LL: 1.197
+F8_LL: 1.183
+F3_LL: 1.130
+P4_LL: 1.110
